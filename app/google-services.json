@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "619539546823",
+    "firebase_url": "https://noise-detector-735d4.firebaseio.com",
+    "project_id": "noise-detector-735d4",
+    "storage_bucket": "noise-detector-735d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619539546823:android:08153436bb1383b4",
+        "android_client_info": {
+          "package_name": "com.hari.noisedetector"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "619539546823-n3ip3l6sc7g94gjj6d6h8f1s2lpp748v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvev21k215klmKpT4m7azjRz_yDlSX8ZM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
